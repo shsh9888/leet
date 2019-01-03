@@ -1,0 +1,4 @@
+S will have the arriving time of a person
+E will have the leaving time
+
+what are the minimum number of chairs needed for the funtiion
